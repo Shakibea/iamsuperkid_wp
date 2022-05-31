@@ -1,0 +1,3 @@
+Plugins\tutor\templates\single\course\course-content.php:
+#27 $has_show_more = true -> $has_show_more = false
+//disable the show more button from course content

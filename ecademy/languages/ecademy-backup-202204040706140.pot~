@@ -1,0 +1,1614 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: eCademy\n"
+"POT-Creation-Date: 2022-04-01 06:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"Language: "
+
+#: inc/ecademy-dashboard/welcome.php:23
+#: inc/ecademy-dashboard/install-plugins.php:24
+msgid " is now installed and ready to use!"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:36
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:163
+msgid "(min:1000)"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:152
+msgid "(min:2000)"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:106
+msgid "(min:256M)"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:140
+msgid "(min:300)"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:117 inc/ecademy-dashboard/welcome.php:128
+msgid "(min:64M)"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:35
+msgid "(required to update email or change current password)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. 1: title.
+#: comments.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: inc/acf.php:301
+msgid "2–5 hours per week"
+msgstr ""
+
+#: inc/acf.php:263
+msgid "3 hours"
+msgstr ""
+
+#: 404.php:39 404.php:41 404.php:45 404.php:47
+msgid "404 Image"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:100
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: inc/widget.php:27
+msgid "A sidebar that only appears on bbPress pages."
+msgstr ""
+
+#: learnpress/content-single-course.php:51
+msgid "Access"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:44
+msgid "Account Email"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:30
+msgid "Actions"
+msgstr ""
+
+#: inc/ecademy-dashboard/install-plugins.php:80
+msgid "Activate all plugins"
+msgstr ""
+
+#: inc/ecademy-dashboard/install-plugins.php:99
+msgid "Activated"
+msgstr ""
+
+#: inc/widget.php:48
+msgid "Activity Directory Sidebar"
+msgstr ""
+
+#: inc/widget.php:38
+msgid "Activity Directory Top Sidebar"
+msgstr ""
+
+#: buddypress/members/single/activity.php:12
+msgid "Activity menu"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:78
+msgid "Add a review"
+msgstr ""
+
+#: inc/widget.php:14 inc/widget.php:83 inc/widget.php:96 inc/widget.php:108
+#: inc/widget.php:121
+msgid "Add widgets here."
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:64
+msgid "Add Your New Password"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+#: woocommerce/single-product/tabs/additional-information.php:24
+msgid "Additional information"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:45 inc/tgmpa/tgmpa.php:109 inc/tgmpa/tgmpa.php:167
+msgid "Advanced Custom Fields Pro"
+msgstr ""
+
+#: inc/acf.php:548
+msgid "Agile Project Expert"
+msgstr ""
+
+#: inc/acf.php:692
+msgid "Alignment"
+msgstr ""
+
+#: buddypress/activity/index.php:17
+msgid "All Community Activity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Average"
+msgstr ""
+
+#: inc/acf.php:783
+msgid "Background Color Left"
+msgstr ""
+
+#: inc/acf.php:811
+msgid "Background Color Right"
+msgstr ""
+
+#: inc/acf.php:839
+msgid "Background Image"
+msgstr ""
+
+#: inc/acf.php:753
+msgid "Background Type"
+msgstr ""
+
+#: inc/acf.php:334 inc/acf.php:711 inc/acf.php:1136 inc/acf.php:1292
+#: inc/acf.php:1427
+msgid "Banner"
+msgstr ""
+
+#: inc/acf.php:87
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/acf.php:350 inc/acf.php:688 inc/acf.php:1120 inc/acf.php:1308
+#: inc/acf.php:1443
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/widget.php:24
+msgid "bbPress Sidebar"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/acf.php:616
+msgid "Behance"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:31
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: inc/template-functions.php:424 inc/template-functions.php:455
+msgid "Blog"
+msgstr ""
+
+#: inc/widget.php:12
+msgid "Blog Sidebar"
+msgstr ""
+
+#: wp-events-manager/loop/register.php:80
+#: wp-events-manager/loop/register.php:85
+msgid "Book Now"
+msgstr ""
+
+#: wp-events-manager/loop/register.php:66
+msgid "Booked Slot:"
+msgstr ""
+
+#: inc/buddypress-functions.php:86
+msgid "Bulk Actions"
+msgstr ""
+
+#: inc/buddypress-functions.php:98
+msgctxt "button"
+msgid "Apply"
+msgstr ""
+
+#: inc/buddypress-functions.php:92
+msgctxt "button"
+msgid "Delete"
+msgstr ""
+
+#: inc/buddypress-functions.php:88
+msgctxt "button"
+msgid "Mark read"
+msgstr ""
+
+#: inc/buddypress-functions.php:90
+msgctxt "button"
+msgid "Mark unread"
+msgstr ""
+
+#: learnpress/content-single-course.php:52
+#: learnpress/single-courses/buttons/enroll.php:22
+#: learnpress/single-courses/buttons/purchase.php:27
+msgid "Buy Course"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:79
+msgid "Cancel"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:78
+msgid "Cancel password change"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart totals"
+msgstr ""
+
+#: inc/admin/features.php:11
+msgid "Choose a pre-built layout for starting a quick design process."
+msgstr ""
+
+#: inc/ecademy-dashboard/install-plugins.php:115
+msgid "Click Here to continue with Demo Import process."
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:27
+msgid "Click on the \"Generate Password\" button to change your password."
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: taxonomy-ld_course_category.php:85 archive-sfwd-courses.php:85
+#: single-sfwd-courses.php:201
+msgid "Completed"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:95
+msgid "Confirm use of potentially weak password"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:72 inc/tgmpa/tgmpa.php:130 inc/tgmpa/tgmpa.php:200
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/acf.php:956
+msgid "Container"
+msgstr ""
+
+#: learnpress/single-courses/buttons/continue.php:21
+msgid "Continue"
+msgstr ""
+
+#: wp-events-manager/loop/register.php:48
+msgid "Cost:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Coupon:"
+msgstr ""
+
+#: inc/acf.php:271
+msgid "Course Access"
+msgstr ""
+
+#: inc/acf.php:252
+msgid "Course Duration"
+msgstr ""
+
+#: inc/acf.php:290
+msgid "Course Effort"
+msgstr ""
+
+#: inc/acf.php:9
+msgid "Course Meta"
+msgstr ""
+
+#: inc/acf.php:136
+msgid "Course Preview Image"
+msgstr ""
+
+#: inc/acf.php:187
+msgid "Course Preview Video Link"
+msgstr ""
+
+#: tutor/global/course-archive-filter-bar.php:24
+msgid "Course Title (a-z)"
+msgstr ""
+
+#: tutor/global/course-archive-filter-bar.php:25
+msgid "Course Title (z-a)"
+msgstr ""
+
+#: inc/widget.php:119
+msgid "Course Widget"
+msgstr ""
+
+#: inc/template-functions.php:442
+msgid "Courses"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: wp-events-manager/shortcodes/forgot-password.php:52
+msgid "Create new user"
+msgstr ""
+
+#. %s: email requirement explanations
+#: buddypress/members/single/settings/general.php:35
+#, php-format
+msgid "Current Password %s"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:105 inc/ecademy-dashboard/welcome.php:108
+#: inc/ecademy-dashboard/welcome.php:116 inc/ecademy-dashboard/welcome.php:119
+#: inc/ecademy-dashboard/welcome.php:127 inc/ecademy-dashboard/welcome.php:130
+#: inc/ecademy-dashboard/welcome.php:139 inc/ecademy-dashboard/welcome.php:142
+#: inc/ecademy-dashboard/welcome.php:151 inc/ecademy-dashboard/welcome.php:154
+#: inc/ecademy-dashboard/welcome.php:162 inc/ecademy-dashboard/welcome.php:165
+msgid "Currently:"
+msgstr ""
+
+#: learnpress/single-courses/tabs/curriculum.php:51
+msgid "Curriculum is empty"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+msgid "Customer Reviews"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:27
+#: inc/ecademy-dashboard/install-plugins.php:28
+msgid "Dashboard"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:69
+msgid "Data Erase"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:14
+msgid "Data Export"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:27
+msgid "Date Received"
+msgstr ""
+
+#: inc/acf.php:706
+msgid "Default"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:73
+msgid "Delete Account"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:30
+#: inc/ecademy-dashboard/install-plugins.php:30
+msgid "Demo Importer"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Description"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:73
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:29
+msgid "Download personal data"
+msgstr ""
+
+#: inc/acf.php:612
+msgid "Dribbble"
+msgstr ""
+
+#: learnpress/content-single-course.php:49
+msgid "Duration"
+msgstr ""
+
+#. Name of the theme
+#: framework-customizations/theme/manifest.php:9
+msgid "eCademy"
+msgstr ""
+
+#: inc/ecademy-dashboard/et-admin.php:53 inc/ecademy-dashboard/et-admin.php:161
+msgid "ecademy"
+msgstr ""
+
+#: functions.php:445 functions.php:446
+#: inc/admin/dashboard/eCademy_admin_dashboard.php:14
+msgid "eCademy Dashboard"
+msgstr ""
+
+#: functions.php:473 functions.php:474
+msgid "eCademy Install Plugins"
+msgstr ""
+
+#: inc/acf.php:1116
+msgid "eCademy Page Options"
+msgstr ""
+
+#: inc/acf.php:1288 inc/acf.php:1423
+msgid "eCademy Post Options"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:32 inc/tgmpa/tgmpa.php:96 inc/tgmpa/tgmpa.php:154
+msgid "eCademy Toolkit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:52
+msgid "Edit"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:34 inc/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: framework-customizations/theme/manifest.php:11
+msgid "Elementor LMS & Online Courses Education Theme"
+msgstr ""
+
+#. Description of the theme
+msgid "Elementor LMS &amp; Online Courses Education Theme"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:39 inc/tgmpa/tgmpa.php:103 inc/tgmpa/tgmpa.php:161
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Email"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:16
+msgid "Email & Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+#: woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: buddypress/members/single/settings/notifications.php:14
+msgid "Email Notifications"
+msgstr ""
+
+#: taxonomy-ld_course_category.php:81 archive-sfwd-courses.php:81
+#: single-sfwd-courses.php:197 learnpress/content-single-course.php:46
+msgid "Enrolled"
+msgstr ""
+
+#: inc/classes/eCademy_rt.php:127
+msgid "Enter purchase key"
+msgstr ""
+
+#. Author of the theme
+msgid "EnvyTheme"
+msgstr ""
+
+#: 404.php:26
+msgid "Error 404 : Page Not Found"
+msgstr ""
+
+#: inc/template-functions.php:340 inc/template-functions.php:345
+msgid "Error please fill up the sign up form carefully."
+msgstr ""
+
+#: inc/acf.php:469
+msgid "Event Location"
+msgstr ""
+
+#: inc/acf.php:330
+msgid "Event Meta"
+msgstr ""
+
+#: inc/template-functions.php:440
+msgid "Events"
+msgstr ""
+
+#: wp-events-manager/content-single-event.php:35
+#: wp-events-manager/content-single-event.php:37
+msgid "Events Details Image"
+msgstr ""
+
+#: inc/acf.php:608
+msgid "Facebook"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: inc/acf.php:615
+msgid "Flickr"
+msgstr ""
+
+#: inc/acf.php:1210
+msgid "Footer"
+msgstr ""
+
+#: functions.php:253
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/acf.php:896 inc/acf.php:1194
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/acf.php:900
+msgid "Footer Visibility"
+msgstr ""
+
+#: inc/widget.php:94
+msgid "Footer Widgets"
+msgstr ""
+
+#: wp-events-manager/loop/register.php:53
+msgid "Free"
+msgstr ""
+
+#: buddypress/members/single/friends.php:13
+msgid "Friends menu"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:82 inc/tgmpa/tgmpa.php:140 inc/tgmpa/tgmpa.php:210
+msgid "Front End PM"
+msgstr ""
+
+#: inc/acf.php:955
+msgid "Full Width"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:60
+msgid "Generate Password"
+msgstr ""
+
+#: inc/admin/features.php:18
+msgid "Get access to premium and exclusive plugins for free."
+msgstr ""
+
+#: inc/admin/features.php:25
+msgid "Get access to top-notch support."
+msgstr ""
+
+#: wp-events-manager/shortcodes/forgot-password.php:40
+msgid "Get New Password"
+msgstr ""
+
+#: inc/acf.php:617
+msgid "Github"
+msgstr ""
+
+#: 404.php:29
+msgid "Go Back"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Good"
+msgstr ""
+
+#: inc/acf.php:773
+msgid "Gradient Color"
+msgstr ""
+
+#: buddypress/members/single/settings/group-invites.php:14
+msgid "Group Invites"
+msgstr ""
+
+#: inc/widget.php:58
+msgid "Groups Directory Sidebar"
+msgstr ""
+
+#: buddypress/members/single/groups.php:13
+msgid "Groups menu"
+msgstr ""
+
+#: inc/acf.php:371 inc/acf.php:1173 inc/acf.php:1329 inc/acf.php:1464
+msgid "Header"
+msgstr ""
+
+#: inc/acf.php:943
+msgid "Header Layout"
+msgstr ""
+
+#: inc/acf.php:387 inc/acf.php:939 inc/acf.php:1157 inc/acf.php:1345
+#: inc/acf.php:1480
+msgid "Header Settings"
+msgstr ""
+
+#: buddypress/activity/post-form.php:17
+msgctxt "heading"
+msgid "Post Update"
+msgstr ""
+
+#: inc/acf.php:726 inc/acf.php:915
+#: buddypress/members/single/settings/general.php:75
+msgid "Hide"
+msgstr ""
+
+#: inc/acf.php:30 inc/acf.php:1635 inc/acf.php:1756
+msgid "Hide Banner"
+msgstr ""
+
+#: inc/acf.php:49 inc/acf.php:1654 inc/acf.php:1775
+msgid "Hide Banner Breadcrumb"
+msgstr ""
+
+#: inc/acf.php:68 inc/acf.php:1673
+msgid "Hide Banner Rating"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:73
+msgid "Hide password"
+msgstr ""
+
+#: template-parts/banner.php:50 learnpress/archive-course.php:89
+#: inc/template-functions.php:515 inc/template-functions.php:586
+msgid "Home"
+msgstr ""
+
+#: 404.php:28
+msgid "Homepage"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://envytheme.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themes.envytheme.com/ecademy"
+msgstr ""
+
+#: buddypress/members/single/settings/group-invites.php:28
+msgid "I want to restrict Group invites to my friends only."
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:59
+msgid "If you want to make a request, please click on the button below:"
+msgstr ""
+
+#: inc/acf.php:774
+msgid "Image with Overlay"
+msgstr ""
+
+#: inc/acf.php:1040
+msgid ""
+"Input the padding in pixels.And leave the fields empty for default padding."
+msgstr ""
+
+#: inc/acf.php:609
+msgid "Instagram"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:28
+#: inc/ecademy-dashboard/install-plugins.php:29
+msgid "Install Plugins"
+msgstr ""
+
+#: learnpress/content-single-course.php:45
+msgid "Instructor"
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: inc/ecademy-dashboard/install-plugins.php:62
+msgid "LearnDash"
+msgstr ""
+
+#: inc/theme-demos.php:21
+msgid "LearnDash Demo"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:174 inc/ecademy-dashboard/install-plugins.php:58
+msgid "LearnPress"
+msgstr ""
+
+#: inc/theme-demos.php:11
+msgid "LearnPress Demo"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:180
+msgid "LearnPress – Course Review"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/acf.php:707
+msgid "Left"
+msgstr ""
+
+#: learnpress/content-single-course.php:50
+msgid "Lessons"
+msgstr ""
+
+#: inc/acf.php:282
+msgid "Lifetime"
+msgstr ""
+
+#: inc/acf.php:610
+msgid "Linkdin"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:55
+msgid "Log in"
+msgstr ""
+
+#: wp-events-manager/shortcodes/forgot-password.php:47
+#: woocommerce/myaccount/form-login.php:33
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:58
+#: buddypress/members/single/settings/general.php:40
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? 1 You will receive a link to create a new password via "
+"email."
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:134
+msgid "Max. Execution Time"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:123
+msgid "Max. Post Size"
+msgstr ""
+
+#: buddypress/members/single/activity.php:19
+msgid "Member Activities"
+msgstr ""
+
+#: buddypress/members/index.php:16
+msgid "Members"
+msgstr ""
+
+#: inc/widget.php:68
+msgid "Members Single Profile Sidebar"
+msgstr ""
+
+#: inc/acf.php:998
+msgid "Menu Item Active Color"
+msgstr ""
+
+#: inc/acf.php:968
+msgid "Menu item color"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86 woocommerce/cart/cart.php:30
+msgid "Name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:77 inc/tgmpa/tgmpa.php:135 inc/tgmpa/tgmpa.php:205
+msgid "Newsletter"
+msgstr ""
+
+#: learnpress/archive-course.php:29
+msgid "No courses found!"
+msgstr ""
+
+#: inc/template-functions.php:431 inc/template-functions.php:462
+msgid "No Title"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Not that bad"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:25
+msgid "Notification"
+msgstr ""
+
+#: buddypress/members/single/notifications.php:12
+msgid "Notifications menu"
+msgstr ""
+
+#: inc/admin/features.php:10
+msgid "One-Click Demo Import"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:119
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:85
+msgid "OPEN SUPPORT TICKET"
+msgstr ""
+
+#: inc/acf.php:1073
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/acf.php:1052
+msgid "Padding Top"
+msgstr ""
+
+#: inc/acf.php:408 inc/acf.php:1247 inc/acf.php:1366 inc/acf.php:1501
+msgid "Page"
+msgstr ""
+
+#: inc/acf.php:1037
+msgid "Page Content Padding"
+msgstr ""
+
+#: inc/acf.php:424 inc/acf.php:1033 inc/acf.php:1231 inc/acf.php:1382
+#: inc/acf.php:1517
+msgid "Page Settings"
+msgstr ""
+
+#: inc/widget.php:106
+msgid "Page Widget"
+msgstr ""
+
+#: single.php:103 template-parts/content-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+#: woocommerce/myaccount/form-login.php:94
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Perfect"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:158
+msgid "PHP Max. Input Time"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:146
+msgid "PHP Max. Input Vars"
+msgstr ""
+
+#: inc/acf.php:611
+msgid "Pinterest"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:35
+msgid "Please click on the button below to make a new request."
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:73
+msgid "Please contact the site administrator to request account deletion."
+msgstr ""
+
+#: wp-events-manager/shortcodes/forgot-password.php:24
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: inc/ecademy-dashboard/install-plugins.php:50
+msgid "Please select the LMS plugin which you want to use."
+msgstr ""
+
+#: comments.php:65
+msgid "Post a Comment"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/admin/features.php:17
+msgid "Premium and Useful Plugins"
+msgstr ""
+
+#: inc/admin/features.php:24
+msgid "Premium, Dedicated Support"
+msgstr ""
+
+#: inc/acf.php:206
+msgid "Preview Video Auto Play"
+msgstr ""
+
+#: learnpress/content-single-course.php:54 woocommerce/cart/cart.php:85
+msgid "Price"
+msgstr ""
+
+#: functions.php:252
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:65
+msgid "Product"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:29
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: buddypress/members/single/profile.php:10
+msgid "Profile menu"
+msgstr ""
+
+#: inc/buddypress-functions.php:394
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:17
+msgid "Profile Visibility Settings"
+msgstr ""
+
+#: inc/classes/eCademy_rt.php:100
+msgid "Purchase Key Already Registered"
+msgstr ""
+
+#: inc/classes/eCademy_rt.php:102
+msgid "Purchase Key Invalid"
+msgstr ""
+
+#: inc/classes/eCademy_rt.php:84
+#, php-format
+msgid "Purchase key is invalid. Need a license? %sPurchase Now%s"
+msgstr ""
+
+#: inc/classes/eCademy_rt.php:98
+msgid "Purchase Key Verified & Registered!"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:91
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Rate this item"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Rate&hellip;"
+msgstr ""
+
+#: learnpress/content-single-course.php:47 inc/template-functions.php:494
+msgid "Rating"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+#: woocommerce/myaccount/form-login.php:108
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr ""
+
+#: inc/admin/dashboard/eCademy_admin_dashboard.php:15
+msgid "Register eCademy"
+msgstr ""
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#: tutor/global/course-archive-filter-bar.php:21
+msgid "Release Date (newest first)"
+msgstr ""
+
+#: tutor/global/course-archive-filter-bar.php:23
+msgid "Release Date (oldest first)"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/cart/cart.php:121
+msgid "Remove this item"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:86
+msgid "Repeat Your New Password"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:41
+msgid "Request new data export"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:63
+msgid "Request personal data export"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: inc/acf.php:619
+msgid "RS"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:27
+msgid "Sale!"
+msgstr ""
+
+#. Safe.
+#: inc/buddypress-functions.php:38
+msgid "Save Changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: learnpress/archive-course.php:128
+msgid "Search our courses"
+msgstr ""
+
+#: inc/template-functions.php:448 inc/template-functions.php:472
+msgid "Search result for: “"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:23
+msgid "Select all"
+msgstr ""
+
+#: inc/buddypress-functions.php:84
+msgid "Select Bulk Action"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:45
+msgid "Select this notification"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:21
+msgid "Select who may see your profile details."
+msgstr ""
+
+#: buddypress/members/single/settings/notifications.php:18
+msgid "Set your email notification preferences."
+msgstr ""
+
+#: buddypress/members/single/settings.php:14
+msgid "Settings menu"
+msgstr ""
+
+#: template-parts/banner.php:94 template-parts/banner.php:96
+#: learnpress/content-single-course.php:98
+#: learnpress/content-single-course.php:100 learnpress/archive-course.php:100
+#: learnpress/archive-course.php:102 inc/template-functions.php:546
+#: inc/template-functions.php:548 inc/template-functions.php:600
+#: inc/template-functions.php:602
+msgid "Shape Image One"
+msgstr ""
+
+#: learnpress/content-single-course.php:53
+msgid "Share This Course"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:54 woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: inc/template-functions.php:420
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: inc/widget.php:81
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/acf.php:725 inc/acf.php:914
+msgid "Show"
+msgstr ""
+
+#: tutor/global/course-archive-filter-bar.php:14
+#, php-format
+msgid "Showing %s Courses"
+msgstr ""
+
+#: learnpress/archive-course.php:47
+#, php-format
+msgid "Showing %s-%s of %s results"
+msgstr ""
+
+#: learnpress/archive-course.php:42
+#, php-format
+msgid "Showing last course of %s results"
+msgstr ""
+
+#: learnpress/archive-course.php:32
+msgid "Showing only one result"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: inc/acf.php:445
+msgid "Single page banner background image"
+msgstr ""
+
+#: inc/acf.php:618
+msgid "Skype"
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: inc/acf.php:983
+msgid "Sticky Menu Color"
+msgstr ""
+
+#: learnpress/content-single-course.php:48
+msgid "Students"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart-totals.php:32
+#: woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:95
+msgid "System Status"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/acf.php:730
+msgid "Text Color"
+msgstr ""
+
+#: inc/classes/eCademy_rt.php:76
+#, php-format
+msgid "The %s theme needs to be registered. %sRegister Now%s"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:40
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: 404.php:27
+msgid ""
+"The page you are looking for might have been removed had its name changed or "
+"is temporarily unavailable."
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:69
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:33
+#: inc/ecademy-dashboard/install-plugins.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:81
+msgid "Theme Support"
+msgstr ""
+
+#: learnpress/archive-course.php:30
+msgid "There are no available courses!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/ecademy-dashboard/install-plugins.php:79
+msgid "These below plugins are required"
+msgstr ""
+
+#: wp-events-manager/loop/register.php:91
+msgid "This event has expired"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#. Link to Delete Account Settings page
+#: buddypress/members/single/settings/data.php:73
+msgid ""
+"To erase all data associated with your account, your user account must be "
+"completely deleted."
+msgstr ""
+
+#: woocommerce/cart/cart.php:109 woocommerce/cart/cart-totals.php:91
+#: woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr ""
+
+#: wp-events-manager/loop/register.php:59
+msgid "Total Slot:"
+msgstr ""
+
+#: inc/acf.php:233
+msgid "Trending Course?"
+msgstr ""
+
+#: inc/acf.php:613
+msgid "Tumblr"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:52 inc/ecademy-dashboard/install-plugins.php:54
+msgid "Tutor LMS"
+msgstr ""
+
+#: inc/theme-demos.php:16
+msgid "Tutor LMS Demo"
+msgstr ""
+
+#: inc/acf.php:607
+msgid "Twitter"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Unit Price"
+msgstr ""
+
+#: inc/admin/features.php:3
+msgid "Unlock Features You Paid For!"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:87 inc/tgmpa/tgmpa.php:145 inc/tgmpa/tgmpa.php:215
+msgid "Unyson"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:20
+msgid "Update your email and or password."
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:112
+msgid "Upload Max. Filesize"
+msgstr ""
+
+#: inc/acf.php:537
+msgid "User Designation"
+msgstr ""
+
+#: inc/acf.php:513
+msgid "User Image"
+msgstr ""
+
+#: inc/template-functions.php:343
+msgid "User name already exist."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:40
+msgid "Username or email address"
+msgstr ""
+
+#: wp-events-manager/shortcodes/forgot-password.php:27
+msgid "Username or Email:"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:22
+#: inc/ecademy-dashboard/install-plugins.php:23
+#, php-format
+msgid "V%s"
+msgstr ""
+
+#: inc/acf.php:480
+msgid "Vancover, Canada"
+msgstr ""
+
+#: inc/classes/eCademy_rt.php:129
+msgid "Verify Now"
+msgstr ""
+
+#: inc/classes/eCademy_rt.php:106
+msgid "Verify Theme Purchase Key. . ."
+msgstr ""
+
+#: inc/admin/dashboard/dashboard.php:6
+msgid "Verify Your Purchase of ecademy WordPress Theme"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid "Very poor"
+msgstr ""
+
+#: buddypress/members/single/settings/profile.php:35
+msgid "Visibility"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:22
+#: inc/ecademy-dashboard/install-plugins.php:23
+msgid "Welcome to "
+msgstr ""
+
+#: inc/admin/dashboard/dashboard.php:5
+msgid "Welcome to eCademy!"
+msgstr ""
+
+#: inc/admin/registration.php:25
+msgid "Where can I find purchase code?"
+msgstr ""
+
+#: inc/widget.php:61
+msgid "Widgets in this area will shown on Groups page."
+msgstr ""
+
+#: inc/widget.php:71
+msgid "Widgets in this area will shown on individual member profiles."
+msgstr ""
+
+#: inc/widget.php:41 inc/widget.php:51
+msgid "Widgets in this area will shown on News feed page."
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:58 inc/tgmpa/tgmpa.php:116 inc/tgmpa/tgmpa.php:186
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:64 inc/tgmpa/tgmpa.php:122 inc/tgmpa/tgmpa.php:192
+msgid "WP Events Manager"
+msgstr ""
+
+#: inc/ecademy-dashboard/welcome.php:99
+msgid "WP Memory Limit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:112
+msgid "Write your review"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:55
+msgid ""
+"You can request an export of your personal data, containing the following "
+"items if applicable:"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:56
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: wp-events-manager/loop/register.php:77
+msgid "You have registered this event before."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:73
+#, php-format
+msgid "You may delete your account by visiting the %s page."
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:26
+#, php-format
+msgid ""
+"You may download your personal data by clicking on the link below. For "
+"privacy and security, we will automatically delete the file on %s, so please "
+"download it before then."
+msgstr ""
+
+#: wp-events-manager/loop/register.php:88
+#, php-format
+msgid "You must <a href=\"%s\">login</a> before register event."
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:98
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:48
+#, php-format
+msgid "You previously requested an export of your personal data on %s."
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:49
+msgid ""
+"You will receive a link to download your export via email once we are able "
+"to fulfill your request."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:34
+msgid "Your previous request for an export of personal data has expired."
+msgstr ""
+
+#: buddypress/members/single/settings/data.php:25
+msgid "Your request for an export of personal data has been completed."
+msgstr ""
+
+#: inc/acf.php:614
+msgid "YouTube"
+msgstr ""
