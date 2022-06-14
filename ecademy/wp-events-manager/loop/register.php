@@ -75,9 +75,17 @@ if ( absint( $event->qty ) == 0 || get_post_meta( get_the_ID(), 'tp_event_status
 			<br>
 			<hr>
 			<a class="default-btn" style="background-color: #4CAF50 !important;"
-			href="https://www.iamsuperkid.com/ds"><?php esc_html_e( 'জমা কৃত সকল ছবি', 'ecademy' ); ?><span></span></a>
+			href="https://www.iamsuperkid.com/event-gallery"><?php esc_html_e( 'জমা কৃত সকল ছবি', 'ecademy' ); ?><span></span></a>
 			<?php else: ?>
 		<p class="tp-event-notice error"><?php echo esc_html__( 'জমা দেয়ার সময় শেষ', 'ecademy' ); ?></p>
+		<br>
+		<hr>
+		<a class="default-btn" style="background-color: #4CAF50 !important;"
+			href="https://www.iamsuperkid.com/event-gallery"><?php esc_html_e( 'জমা কৃত সকল ছবি', 'ecademy' ); ?><span></span></a>
+		<br>
+		<hr>
+		<a class="default-btn" style="background-color: #4CAF50 !important;"
+			href="https://www.iamsuperkid.com/event-winner"><?php esc_html_e( 'বিজয়ীদের নাম', 'ecademy' ); ?><span></span></a>
 	<?php endif; ?>
 	<!--  -->
 </div>
